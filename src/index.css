@@ -1,0 +1,122 @@
+/* Estilos básicos */
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 2rem;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Contenedor principal */
+#root {
+  width: 100%;
+  max-width: 950px;
+  margin: auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.reload-menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.reload-button {
+  height: 90%;
+}
+
+/* Estilos de los componentes */
+h2 {
+  color: #444;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 5px;
+}
+
+input[type="text"], input[type="number"] {
+  width: calc(100% - 22px);
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #5c67f2;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #4b54d1;
+}
+
+button:last-child {
+  background-color: #f24c4c;
+}
+
+button:last-child:hover {
+  background-color: #d14444;
+}
+
+/* Lista de comidas */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #f9f9f9;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li span {
+  flex: 1;
+  font-size: 16px;
+}
+
+li button {
+  margin-left: 10px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  button {
+      padding: 8px 16px;
+      font-size: 14px;
+  }
+
+  input[type="text"], input[type="number"] {
+      padding: 8px;
+      font-size: 14px;
+  }
+
+  li span {
+      font-size: 14px;
+  }
+}

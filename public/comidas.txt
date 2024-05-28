@@ -1,0 +1,64 @@
+Escalopines al cabrales, 0
+Codillo, 0
+Crema de calabacín, 0
+Pescado - Dorada, 0
+Arroz - Con setas, 0
+Revuelto de calabacín, 0
+Patatas con bechamel, 0
+Pasta - Tallarines, 0
+Pasta - Ravioli, 0
+Fritada de garbanzos, 0
+Pescado - Bacalao con tomate, 0
+Berenjenas rellenas, 0
+Pasta - Fideuá, 0
+Cachopos de Ternera, 0
+Pollo - Cachopos, 0
+Escalopines empanados, 0
+Escalopines rebozados, 0
+Cerdo - Solomillo ibérico, 0
+Cerdo - Solomillo, 0
+Solomillo de Ternera, 0
+Cerdo - Chuletas, 0
+Filetes rusos, 0
+Cerdo - Filetes de lomo, 0
+Patatas con costillas, 0
+Pescado - Revuelto de bacalao, 0
+Pescado - Lubina, 0
+Patatas fritas, 0
+Pasta - Canelones, 0
+Entrecot, 0
+Albóndigas, 0
+Pasta - Ensalada, 0
+Perritos calientes, 1, 18/4/2024
+Arroz - Blanco Largo, 1, 18/4/2024
+Arroz - 3 Delicias, 1, 19/4/2024
+Patatas con huevos estrellados, 1, 21/4/2024
+Pollo - Alitas, 1, 22/4/2024
+Sopa con Garbanzos, 1, 22/4/2024
+Pescado - Gallos, 1, 23/4/2024
+Pollo - Pechugas a la plancha, 1, 30/4/2024
+Fabada, 1, 5/5/2024
+Acelgas, 1, 6/5/2024
+Pollo - Pechugas empanadas, 2, 6/5/2024
+Pasta - Macarrones con picadillo, 1, 7/5/2024
+Ensalada de patata, 1, 10/5/2024
+Cerdo - Lomo Ibérico, 2, 13/5/2024
+Guisantes, 2, 13/5/2024
+Pescado - Salmón, 1, 14/5/2024
+Arroz - Blanco Bomba, 1, 14/5/2024
+Fréjoles (Judias Verdes), 1, 16/5/2024
+Pasta - Espaguetis, 2, 17/5/2024
+Huevos rellenos, 1, 17/5/2024
+Pollo - Asado, 4, 18/5/2024
+Pan Tumaca, 2, 19/5/2024
+Tosta Tortilla Francesa, 1, 19/5/2024
+Cerdo - Lomo adobado, 2, 20/5/2024
+Puré de verduras, 2, 20/5/2024
+Bollos de chorizo, 1, 21/5/2024
+Espinacas con bechamel, 1, 22/5/2024
+Pollo - Pechugas rebozadas, 1, 22/5/2024
+Hamburguesa, 1, 23/5/2024
+Arroz - Amarillo, 2, 24/5/2024
+Tortilla de patata, 3, 26/5/2024
+Lentejas, 1, 27/5/2024
+Bocadillo Calamares, 2, 28/5/2024
